@@ -1,1 +1,23 @@
-A readme
+# Git :page_with_curl: 0x03-git
+## About this project;
+In this project I learnt and practiced
+- What is source code management
+- What is Git
+- What is GitHub
+- What is the difference between Git and GitHub
+- How to create a repository
+- What is a README
+- How to write good READMEs
+- How to commit
+- How to write helpful commit messages
+- How to push code
+- How to pull updates
+- How to create a branch
+- How to merge branches
+- How to work as collaborators on a project
+- Which files should and which files should not appear in your repo using .gitignore
+## Task File Descriptions;
+*`c` and `Bash`: These directories contain mostly empty files which i used to practice creating repositories, 
+commiting, pushing code, creating and merging branches, pulling updates, and working as a collaborator.
+* `up_to_date`: A file containing the git command to update a local repository from GitHub.
+* `.gitignore`: A file that defines a rule to never push `~` files.
